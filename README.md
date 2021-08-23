@@ -47,7 +47,7 @@ I would love to mix both of these fields of competence for my upcoming projects.
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/th%C3%A9ophile-courtois-595a9b136)
 
-You can also reach me on my email adress: theophile.courtois@gmail.com !
+You can also reach me on my email address: theophile.courtois@gmail.com !
 
 
 
