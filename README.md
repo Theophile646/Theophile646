@@ -1,8 +1,8 @@
 ## Hi there / Bonjour 👋
 
 My name is Théophile Courtois and I am a french junior full stack web developer. 
-On top of web developpement, I have been graduated from a business scool specialised in tourism. 
-I would love to mix both of these field if competence for my upcoming projects.
+On top of web development, I have been graduated from a business school specialised in tourism. 
+I would love to mix both of these fields of competence for my upcoming projects.
 
 ## 🛠  Languages and tools
 <div>
