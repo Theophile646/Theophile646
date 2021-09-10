@@ -40,6 +40,8 @@ I would love to mix both of these fields of competence for my upcoming projects.
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/AngularJS-282C34?logo=angularjs&logoColor=E23237" alt="AngularJS logo" title="AngularJS" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=3776AB" alt="PHP logo" title="PHP" height="25" />
+
 
 
 
